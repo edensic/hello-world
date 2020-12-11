@@ -1,3 +1,3 @@
-# hello-world
-# my name is eden
-> > > what is texting < < <
+# hello-world 
+# how are you 
+# where is the way to look after 
